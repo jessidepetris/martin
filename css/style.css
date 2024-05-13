@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    background-color:black;
 }
 
 @keyframes bounce {
@@ -198,7 +199,7 @@
     margin:1rem;
     border: solid;
     border-color: #c722c71f;
-    min-width: 15rem;
+    max-width: 15rem;
     height: 21rem;
 }
 .card:hover{
