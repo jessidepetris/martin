@@ -51,7 +51,7 @@
 .titulo{
     font-family: 'Yellowtail', cursive;
     font-weight: 400;
-    font-size: 4rem;
+    font-size: 8rem;
     margin-bottom:1rem;
     text-align:center;
     color:rgb(255, 255, 255);
@@ -441,7 +441,7 @@
     }
 
     .animate__animated.animate__fadeIn{
-        font-size: 3rem;
+        font-size: 5rem;
         padding: 1rem;
     }
 
