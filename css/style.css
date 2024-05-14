@@ -46,8 +46,11 @@
     0 0 2px rgb(255, 255, 255),
     0 0 150px rgba(239, 78, 220, 0.212);
 }
-  
 
+.flechas{
+    color:rgb(234, 0, 255);
+    margin-top:3rem;
+}
   
   
 
