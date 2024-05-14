@@ -27,6 +27,27 @@
 
   }
 
+.logoJambo{
+    width:25rem;
+    display: block;
+    background-color: none;
+  }
+
+.containerJambo {
+    background-color:rgba(255, 255, 255, 0);
+    filter: drop-shadow(10px 15px 20px rgb(234, 0, 255));
+    margin-bottom:2rem;
+    
+}
+.jambo{
+    border: solid 2px rgb(234, 0, 255);
+    border-radius: 6px;
+    box-shadow:0 0 8px rgb(239, 78, 220),
+    0 0 2px rgb(255, 255, 255),
+    0 0 150px rgba(239, 78, 220, 0.212);
+}
+  
+
   
   
 
@@ -124,11 +145,6 @@
     background-color: rgb(65, 7, 42);
     border:none;
     color:rgb(239, 78, 220);
-}
-
-.jambo{
-    border: solid;
-    border-radius: 6px;
 }
 
 .location{
