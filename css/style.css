@@ -513,17 +513,17 @@ html{
         .fototravel{
         height: 70vh;
         background-image: url("../images/fondo2-query.jpg");
-        background-attachment: fixed;
+        background-attachment: unset;
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         filter: grayscale(100%);
     }
 
     .fototravel1{
         height: 70vh;
         background-image: url("../images/fondo3-query.jpg");
-        background-size: contain;
-        background-attachment: fixed;
+        background-size: cover;
+        background-attachment: unset;
         background-repeat: no-repeat;
         filter: grayscale(100%);
     }
@@ -531,9 +531,9 @@ html{
     .fototravel2{
         height: 70vh;
         background-image: url("../images/pista-query.jpg");
-        background-attachment: fixed;
+        background-attachment: unset;
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         filter: grayscale(100%);
     }
     
