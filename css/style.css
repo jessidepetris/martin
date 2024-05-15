@@ -505,6 +505,34 @@
     width:16rem;
   }
 
+        .fototravel{
+        height: 70vh;
+        background-image: url("../images/fondo2-query.jpg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: grayscale(100%);
+    }
+
+    .fototravel1{
+        height: 70vh;
+        background-image: url("../images/fondo3-query.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+    }
+    
+    .fototravel2{
+        height: 70vh;
+        background-image: url("../images/pista-query.jpg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: grayscale(100%);
+    }
+    
+
 }
 
 
