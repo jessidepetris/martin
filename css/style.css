@@ -1,6 +1,9 @@
 *{
     margin:0;
     padding:0;
+}
+
+html{
     background-color:black;
 }
 
@@ -368,6 +371,7 @@
     margin-bottom: 2rem; 
     text-align: center;
     color:white;
+    max-width:95vw;
 
 }
 
@@ -447,6 +451,7 @@
     }
     .regaloh2{
         font-size: 1.7rem;
+        max-width:90vw;
     }
 
     .textRegalo1{
@@ -510,14 +515,14 @@
         background-image: url("../images/fondo2-query.jpg");
         background-attachment: fixed;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain;
         filter: grayscale(100%);
     }
 
     .fototravel1{
         height: 70vh;
         background-image: url("../images/fondo3-query.jpg");
-        background-size: cover;
+        background-size: contain;
         background-attachment: fixed;
         background-repeat: no-repeat;
         filter: grayscale(100%);
@@ -528,7 +533,7 @@
         background-image: url("../images/pista-query.jpg");
         background-attachment: fixed;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: contain;
         filter: grayscale(100%);
     }
     
